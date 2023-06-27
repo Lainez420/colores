@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100&family=Righteous&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #628E90;
+}
+
+.color{
+   
+    background-color:rgb(132, 0, 255);
+    width: 150px;
+    height: 50px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.color1{
+    background-color: rgb(45, 5, 83);
+    width: 150px;
+    height: 40px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.color2{
+    background-color: rgb(96, 17, 170);
+    width: 150px;
+    height: 30px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.color3{
+    background-color: rgb(141, 78, 201);
+    width: 150px;
+    height: 25px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.color4{
+    background-color: rgb(194, 148, 236);
+    width: 150px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.titulo{
+    background-color: #19A7CE;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    border: solid 8px #2C3333;
+    border-radius: 20% ;
+}
+
+.subtitulos{
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    color: #fff;
+}
+
+.azul{
+    background-color: #0A4D68 ;
+    width: 150px ;
+    height: 50px;
+    list-style: none ;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.azul1{
+    background-color: #088395 ;
+    width: 150px;
+    height: 40px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.azul2{
+    background-color: #05BFDB ;
+    width: 150px;
+    height: 30px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.azul3{
+    background-color:#00FFCA ;
+    width: 150px;
+    height: 25px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.azul4{
+    background-color: #B6EAFA;
+    width: 150px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.verde{
+    background-color: #DDFFBB;
+    width: 150px;
+    height: 50px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.verde1{
+    background-color: #C7E9B0 ;
+    width: 150px;
+    height: 40px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.verde2{
+    background-color: #B3C99C ;
+    width: 150px;
+    height: 30px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.verde3{
+    background-color:#A4BC92;
+    width: 150px;
+    height: 25px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.verde4{
+    background-color: #98D8AA;
+    width: 150px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.rosado{
+    background-color: #9A1663;
+    width: 150px;
+    height: 50px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.rosado1{
+    background-color: #E0144C ;
+    width: 150px;
+    height: 40px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.rosado2{
+    background-color: #FF5858 ;
+    width: 150px;
+    height: 30px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    
+}
+
+.rosado3{
+    background-color:#FF97C1;
+    width: 150px;
+    height: 25px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.rosado4{
+    background-color: #FFACC7;
+    width: 150px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.naranja{
+    background-color: rgb(199, 68, 8);
+    width: 150px;
+    height: 50px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.naranja1{
+    background-color: rgb(248, 103, 6);
+    width: 150px;
+    height: 40px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.naranja2{
+    background-color:rgb(173, 82, 7)  ;
+    width: 150px;
+    height: 30px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.naranja3{
+    background-color: rgb(243, 130, 54);
+    width: 150px;
+    height: 25px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.naranja4{
+    background-color: rgb(230, 122, 83) ;
+    width: 150px;
+    list-style: none;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.paleta{
+    margin: 60px;
+    border: solid 6px #2C3333;
+    border-radius: 10px;
+    background-color: #ff0000;
+    
+}
+
+.principal{
+    display: flex;
+    justify-content: space-evenly ;
+}
